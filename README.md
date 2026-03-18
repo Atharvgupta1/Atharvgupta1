@@ -7,6 +7,19 @@ I work primarily with SQL, Excel, and Power BI to explore data, identify pattern
 
 Right now, I’m actively developing portfolio projects that reflect real business scenarios and continuously improving my skills in data analysis, visualization, and problem-solving.
 
+## 🛠 Skills
+
+Programming Languages: Python, SQL
+
+Data Visualization / Business Intelligence: Excel, Power BI, Matplotlib, Seaborn
+
+Data Analysis / Machine Learning: Pandas, NumPy, Scikit-Learn (Basics), Exploratory Data Analysis (EDA)
+
+Tools & Technologies: Git, Jupyter Notebook
+
+Core Concepts: Data Cleaning, Data Visualization, Business Insights, Basic Statistical Analysis
+
+
 
 <!--
 **Atharvgupta1/Atharvgupta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

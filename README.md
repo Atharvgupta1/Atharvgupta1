@@ -9,19 +9,16 @@ Right now, I’m actively developing portfolio projects that reflect real busine
 
 ## 🛠 Skills
 
-Programming Languages:
+Programming:
 Python, SQL
 
-Data Analytics & Processing:
-Pandas, NumPy, Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Statistical Analysis (Z-Score, Outlier Detection)
+Data Analytics:
+Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis (Z-Score)
 
-Data Visualisation & Business Intelligence:
-Excel (Pivot Tables, Data Analysis), Power BI (Dashboards, KPI Tracking), Matplotlib
+Visualisation & BI:
+Power BI, Excel, Matplotlib
 
 Machine Learning:
-Scikit-learn, Supervised Learning (Decision Tree, Random Forest), Model Validation (Train-Test Split), Evaluation Metrics (Accuracy, Confusion Matrix)
-
-Databases:
-MySQL, Data Querying (Joins, Aggregations, Subqueries)
+Scikit-learn, Decision Tree, Random Forest, Train-Test Split, Model Evaluation
 
 ## 📫 How to Reach Me

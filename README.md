@@ -16,7 +16,7 @@ Data Analytics:
 Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis (Z-Score)
 
 Visualisation & BI:
-Power BI, Excel, Matplotlib
+Power BI, Excel, Matplotlib, Seaborn
 
 Machine Learning:
 Scikit-learn, Decision Tree, Random Forest, Train-Test Split, Model Evaluation

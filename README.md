@@ -9,17 +9,22 @@ Right now, I’m actively developing portfolio projects that reflect real busine
 
 ## 🛠 Skills
 
-Programming Languages: Python, SQL
+Languages:
 
-Data Visualization / Business Intelligence: Excel, Power BI, Matplotlib, Seaborn
+* SQL
+* Python (Basics)
 
-Data Analysis / Machine Learning: Pandas, NumPy, Scikit-Learn (Basics), Exploratory Data Analysis (EDA)
+Tools:
 
-Tools & Technologies: Git, Jupyter Notebook
+* Excel
+* Power BI
 
-Core Concepts: Data Cleaning, Data Visualization, Business Insights, Basic Statistical Analysis
+Core Skills:
 
-
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Insight Generation
 
 <!--
 **Atharvgupta1/Atharvgupta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

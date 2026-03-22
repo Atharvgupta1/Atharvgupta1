@@ -7,6 +7,8 @@ I work primarily with SQL, Excel, and Power BI to explore data, identify pattern
 
 Right now, I’m actively developing portfolio projects that reflect real business scenarios and continuously improving my skills in data analysis, visualisation, and problem-solving.
 
+## 💻 Tech Stack
+
 ### 🧑‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)

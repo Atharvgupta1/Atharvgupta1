@@ -12,7 +12,7 @@ Right now, I’m actively developing portfolio projects that reflect real busine
 ### 🧑‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
 
 ### 📊 Data Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)

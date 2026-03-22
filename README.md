@@ -23,5 +23,4 @@ Scikit-learn, Decision Tree, Random Forest, Train-Test Split, Model Evaluation
 
 ## 📫 How to Reach Me
 
-***LinkedIn***:- www.linkedin.com/in/atharvgupta01
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharvgupta01)

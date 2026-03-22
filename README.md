@@ -38,3 +38,4 @@ Right now, I’m actively developing portfolio projects that reflect real busine
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharvgupta01)
+[![Gmail](https://img.shields.io/badge/Gmail-atharvgupta342%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvgupta342@gmail.com)

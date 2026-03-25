@@ -2,10 +2,12 @@
 
 ## 🚀 About Me
 
-I’m an aspiring Data Analyst currently focused on building real-world projects in the retail domain, especially around sales and pricing analysis.
-I work primarily with SQL, Excel, and Power BI to explore data, identify patterns, and answer business-driven questions. My approach is not just to create dashboards, but to understand the “why” behind the numbers and translate data into actionable insights.
+Aspiring Data Analyst skilled in SQL, Excel, and Power BI, focused on solving business problems through data.
+I work on end-to-end data projects involving data cleaning, exploratory analysis, and dashboard development to uncover trends, identify patterns, and support data-driven decision-making.
 
-Right now, I’m actively developing portfolio projects that reflect real business scenarios and continuously improving my skills in data analysis, visualisation, and problem-solving.
+I prioritize understanding the “why” behind the numbers and translating insights into clear, actionable outcomes rather than just building visualizations.
+
+Currently developing real-world portfolio projects to strengthen my analytical thinking, data storytelling, and problem-solving skills.
 
 ## 💻 Tech Stack
 
